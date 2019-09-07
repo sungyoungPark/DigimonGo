@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DigimonGO</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="level">0</string>
+    <string name="exp">0</string>
+    <string name="life">0</string>
+    <string name="power_up">0</string>
+    <string name="info">info</string>
+    <string name="id"></string>
+    <string name="pass"></string>
+    <string name="title_activity_maps">Map</string>
+</resources>

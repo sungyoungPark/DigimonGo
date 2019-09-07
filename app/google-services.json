@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "879926598385",
+    "firebase_url": "https://digimongo-134a8.firebaseio.com",
+    "project_id": "digimongo-134a8",
+    "storage_bucket": "digimongo-134a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879926598385:android:67d6e635d2cb62f1",
+        "android_client_info": {
+          "package_name": "example.asus.digimongo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879926598385-4mfmvbe3c88if8gd82gi3qnljsb1hb72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKh6SUbRaoR36M5bNRarGiumF8aGIXQDA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
